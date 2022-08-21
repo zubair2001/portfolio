@@ -203,7 +203,7 @@ button:active {
 
     ul {
         position: relative;
-        right: 150px;
+/*         right: 150px; */
         display: flex;
         list-style-type: none;
         width: 300px;
