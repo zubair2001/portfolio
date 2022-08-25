@@ -144,8 +144,8 @@ button:active {
     display: flex;
     justify-content: space-around;
     padding: 80px;
-    height: 100%;
-    overflow: scroll;
+    height: fit-content;
+    /* overflow: scroll; */
 
 }
 
