@@ -154,8 +154,8 @@ button:active {
     flex-direction: column;
     text-align: center;
     padding: 80px;
-    overflow: scroll;
-    height: 100vh;
+    /* overflow: scroll; */
+    height: fit-content;
     /* margin-bottom: 20px; */
 }
 
@@ -198,9 +198,9 @@ button:active {
 
     }
 
-    nav{
+    /* nav{
         
-    }
+    } */
 
     p {
         font-size: 18px;
